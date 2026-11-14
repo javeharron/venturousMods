@@ -1,6 +1,8 @@
 =====================================================================
+
   VENTUROUS - ITALIAN WEAPONS ADD-ON
   venturous_italy_weapons5.pk3
+  
 =====================================================================
 
 Six new weapons for Venturous: five WW2 Italian arms and one blessed
