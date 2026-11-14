@@ -1,6 +1,6 @@
 =====================================================================
 
-  VENTUROUS - ITALIAN WEAPONS ADD-ON
+  VENTUROUS - ITALIAN WEAPONS ADD-ON and ALT EXPLORER SKIN
   venturous_italy_weapons5.pk3
   
 =====================================================================
