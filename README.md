@@ -1,6 +1,6 @@
 =====================================================================
 
-  VENTUROUS - ITALIAN WEAPONS ADD-ON and ALT EXPLORER SKIN
+  VENTUROUS - ITALIAN WEAPONS ADD-ON, ALT EXPLORER SKIN, and Expanded Weapons
   venturous_italy_weapons5.pk3
   
 =====================================================================
@@ -99,6 +99,7 @@ Steyr / Beretta ... Bullets        Bodeo ...... Shells4 (+TorchAmmo)
 Armaguerra ........ RifleAmmo      Solothurn .. RocketAmmo
 Bullwhip .......... Mana / CellB (all Mana-family pickups feed it)
 
+-Also added 'Expanded Weapons' from the potential journal entries. 
 
 NOTES
 -----
